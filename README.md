@@ -14,6 +14,7 @@ O calendário html tem os seguintes recursos:
     · Todas as alterações são fáceis em css.
 
     Desenvolvedor / designer: Christoph Weißenbäck
+    docs: <a href="https://calendario2018brasil.com.br/">https://calendario2018brasil.com.br</a>
 
 Outros recursos: <a href="https://calendario2018brasil.com.br/"> Calendario 2018 </a>
 (para a Brasil)
